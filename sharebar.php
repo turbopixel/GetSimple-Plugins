@@ -2,7 +2,7 @@
 /*
 Plugin Name: Sharebar
 Description: This extension include ten social media icons below the content for more sharing. Only HTML Buttons - compliance with data protection.
-Version: 1.1
+Version: 1.2.6
 Author: Nico Hemkes
 Author URI: http://www.nokes.de/
 */
@@ -16,7 +16,7 @@ $config_file = GSDATAOTHERPATH . 'nokes_sharebar.xml';
 register_plugin(
 	$thisfile, 									
 	'Sharebar',									
-	'1.2.5', 										
+	'1.2.6', 										
 	'Nico Hemkes', 								
 	'http://www.nokes.de/', 					
 	'Add html share icons above the content area. Only HTML Buttons - compliance with data protection', 
